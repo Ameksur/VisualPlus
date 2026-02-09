@@ -1,5 +1,5 @@
 local experienceTable = {
-    [99567941238278] = "loadstring(game:HttpGet('https://example.com/script1.lua'))()",
+    [99567941238278] = "loadstring(game:HttpGet("https://raw.githubusercontent.com/Ameksur/VisualPlus/refs/heads/main/VisualPlus-InkGame"))()",
 }
 
 local currentGameId = game.PlaceId
